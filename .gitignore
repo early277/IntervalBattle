@@ -1,0 +1,28 @@
+# Xcode personal settings
+xcuserdata/
+*.xcuserstate
+
+# Build outputs
+DerivedData/
+build/
+*.xcarchive
+*.ipa
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# macOS
+.DS_Store
+
+# Signing / certificates
+*.mobileprovision
+*.provisionprofile
+*.p12
+*.cer
+
+# Secrets
+.env
+*.env
+*.xcconfig
